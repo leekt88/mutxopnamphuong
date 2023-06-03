@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: http://amidgiftbaskets.com/index.php?route=feed/google_sitemap
