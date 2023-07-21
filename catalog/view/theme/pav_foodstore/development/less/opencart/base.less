@@ -360,10 +360,7 @@ ul.links {
   ul.list{
         > li {
             padding: 8px 0 8px;
-            + {
-                li {
-                }
-            }
+            
             ul {
                 display: none;
                 & > li {
@@ -395,10 +392,9 @@ ul.links {
             }
             a.active {
                 color: @theme-color-hover;
-                + {
-                    ul {
-                        display: block;
-                    }
+                
+                ul {
+                    display: block;
                 }
             }
         }

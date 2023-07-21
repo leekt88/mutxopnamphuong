@@ -41,8 +41,8 @@ $_['text_leave_a_comment'] = 'Bỏ ý kiến';
 $_['blog_category_heading_title'] = 'Danh mục tin tức';
 
 // Text
-$_['text_latest']  = 'Mới nhất'; 
-$_['text_mostviewed']  = 'Xem nhiều nhất'; 
+$_['text_latest']  = 'Sản Phẩm Bán Chạy'; 
+$_['text_mostviewed']  = 'Sản Phẩm Nổi Bật'; 
 $_['text_featured']  = 'Nổi bật'; 
 $_['text_bestseller']  = 'Bán chạy nhất'; 
 
